@@ -30,7 +30,16 @@ It is currently in progress and includes only the **frontend** components. Backe
 
 | Open Screen | Login Screen | Register Screen | Home Screen | Track Screen | CreateTask Screen | Notification Screen | Search Screen | Reset Password Screen | Profile Screen | 
 |-------------|--------------|-----------------|-------------|--------------|-------------------|---------------------|---------------|-----------------------|----------------|
-| ![Open](../screenshots/OpenScreen.png) | ![Login](./screenshots/LoginScreen.png) | ![Register](./screenshots/RegisterScreen.png) | ![Home](./screenshots/HomeScreen.png)| ![Track](./screenshots/TrackScreen.png) | ![Create](./screenshots/CreateTaskScreen.png) | ![Notification](./screenshots/NotificationScreen.png) | ![Search](./screenshots/SearchScreen.png) | ![Reset](./screenshots/ResetPasswordScreen.png) | ![Profile](./screenshots/ProfileScreen.png) 
+| ![Open]([../screenshots/OpenScreen.png](https://github.com/naveenkumarph666/Task-Manager/tree/master/ScreenShots#:~:text=8%20minutes%20ago-,OpenScreen.png,-Add%20files%20via)) |
+| ![Login](./screenshots/LoginScreen.png) |
+| ![Register](./screenshots/RegisterScreen.png) | 
+| ![Home](./screenshots/HomeScreen.png)|
+| ![Track](./screenshots/TrackScreen.png) | 
+| ![Create](./screenshots/CreateTaskScreen.png) | 
+| ![Notification](./screenshots/NotificationScreen.png) | 
+| ![Search](./screenshots/SearchScreen.png) | 
+| ![Reset](./screenshots/ResetPasswordScreen.png) |
+| ![Profile](./screenshots/ProfileScreen.png) 
 
 
 ---
