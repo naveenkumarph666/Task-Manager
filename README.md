@@ -28,9 +28,9 @@ It is currently in progress and includes only the **frontend** components. Backe
 
 ## 📸 Screenshots
 
-| Home Screen | Product Page |
-|-------------|--------------|
-| ![Home](./screenshots/home.png) | ![Product](./screenshots/product.png) |
+| Open Screen | Login Screen | Register Screen | Home Screen | Track Screen | CreateTask Screen | Notification Screen | Search Screen | Reset Password Screen | 
+|-------------|--------------|-----------------|-------------|--------------|-------------------|---------------------|---------------|------------------------|
+| ![Open](./screenshots/OpenScreen.png) | ![Login](./screenshots/LoginScreen.png) | ![Register](./screenshots/RegisterScreen.png) | ![Home](./screenshots/HomeScreen.png)| ![Track](./screenshots/TrackScreen.png) | ![Create](./screenshots/CreateTaskScreen.png) | ![Notification](./screenshots/NotificationScreen.png) | ![Search](./screenshots/SearchScreen.png) | ![Reset](./screenshots/ResetPasswordScreen.png) 
 
 
 ---
