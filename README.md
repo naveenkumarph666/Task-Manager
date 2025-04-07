@@ -19,7 +19,7 @@ It is currently in progress and includes only the **frontend** components. Backe
 - Find the path of screenshots of the mobile application.
 ![OpenPage](ScreenShots/OpenScreen.png)
 ![LoginPage](ScreenShots/LoginScreen.png)
-![ResetPasswordPage](ScreenShots/ResetPasswordScreen.png)
+![ResetPasswordPage](ScreenShots/PasswordResetScreen.png)
 ![RegisterPage](Screenshots/RegisterScreen.png)
 ![HomePage](Screenshots/HomeScreen.png)
 ![ProfilePage](Screenshots/ProfileScreen.png)
