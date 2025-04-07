@@ -21,7 +21,7 @@ It is currently in progress and includes only the **frontend** components. Backe
 ![LoginPage](ScreenShots/LoginScreen.png)
 ![ResetPasswordPage](ScreenShots/PasswordResetScreen.png)
 ![RegisterPage](ScreenShots/RegisterScreen.png)
-![HomePage](Screenshots/HomeScreen.png)
+![HomePage](ScreenShots/HomeScreen.png)
 ![ProfilePage](Screenshots/ProfileScreen.png)
 ![TrackPage](Screenshots/TrackScreen.png)
 ![CreateTaskPage](Screenshots/CreateTaskScreen.png)
