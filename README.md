@@ -15,6 +15,18 @@ It is currently in progress and includes only the **frontend** components. Backe
 - ❌ Backend/API integration is pending
 
 ---
+##  Screenshots
+- Find the path of screenshots of the mobile application.
+![OpenPage]('../Screenshots/OpenScreen.png')
+![LoginPage]('../Screenshots/LoginScreen.png')
+![RegisterPage]('../Screenshots/RegisterScreen.png')
+![HomePage]('../Screenshots/HomeScreen.png')
+![ProfilePage]('../Screenshots/ProfileScreen.png')
+![TrackPage]('../Screenshots/TrackScreen.png')
+![CreateTaskPage]('../Screenshots/CreateTaskScreen.png')
+![NotificationsPage]('../Screenshots/NotificationScreen.png')
+![SearchPage]('../Screenshots/SearchScreen.png')
+
 
 ## 🛠️ Tech Stack
 
