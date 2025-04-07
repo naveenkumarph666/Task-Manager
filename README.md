@@ -25,7 +25,7 @@ It is currently in progress and includes only the **frontend** components. Backe
 ![ProfilePage](ScreenShots/ProfileScreen.png)
 ![TrackPage](ScreenShots/TrackScreen.png)
 ![CreateTaskPage](ScreenShots/CreateTaskScreen.png)
-![NotificationsPage](Screenshots/NotificationScreen.png)
+![NotificationsPage](ScreenShots/NotificationScreen.png)
 ![SearchPage](Screenshots/SearchScreen.png)
 
 
