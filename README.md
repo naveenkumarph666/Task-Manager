@@ -9,7 +9,7 @@ It is currently in progress and includes only the **frontend** components. Backe
 
 - ✅ Built using **React Native with TypeScript**
 - ✅ Mobile-friendly and responsive UI
-- ✅ Functional screens: Login, Signup, Home, Track, Notification, Search
+- ✅ Functional screens: Open, Login, Reset Password, Signup, Home, Profile, Track, Create Task, Notification, Search
 - ✅ React Navigation for smooth screen transitions
 - ✅ Form validations and interactive elements using TypeScript
 - ❌ Backend/API integration is pending
@@ -56,6 +56,7 @@ It is currently in progress and includes only the **frontend** components. Backe
 
 ## 👨‍💻 Author
 
-**P.H.Naveen Kumar**  
+**P.H.Naveen Kumar**
+Contact [phnaveen2468@gmail.com]
 React.js, React Native and Frontend Enthusiast | Transitioning from SQL background  
 [LinkedIn] | [GitHub]
