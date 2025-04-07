@@ -18,15 +18,15 @@ It is currently in progress and includes only the **frontend** components. Backe
 ##  Screenshots
 - Find the path of screenshots of the mobile application.
 ![OpenPage](ScreenShots/OpenScreen.png)
-![LoginPage]('../Screenshots/LoginScreen.png')
-![ResetPasswordPage]('../Screenshots/ResetPasswordScreen.png')
-![RegisterPage]('../Screenshots/RegisterScreen.png')
-![HomePage]('../Screenshots/HomeScreen.png')
-![ProfilePage]('../Screenshots/ProfileScreen.png')
-![TrackPage]('../Screenshots/TrackScreen.png')
-![CreateTaskPage]('../Screenshots/CreateTaskScreen.png')
-![NotificationsPage]('../Screenshots/NotificationScreen.png')
-![SearchPage]('../Screenshots/SearchScreen.png')
+![LoginPage](Screenshots/LoginScreen.png)
+![ResetPasswordPage](Screenshots/ResetPasswordScreen.png)
+![RegisterPage](Screenshots/RegisterScreen.png)
+![HomePage](Screenshots/HomeScreen.png)
+![ProfilePage](Screenshots/ProfileScreen.png)
+![TrackPage](Screenshots/TrackScreen.png)
+![CreateTaskPage](Screenshots/CreateTaskScreen.png)
+![NotificationsPage](Screenshots/NotificationScreen.png)
+![SearchPage](Screenshots/SearchScreen.png)
 
 
 ## 🛠️ Tech Stack
