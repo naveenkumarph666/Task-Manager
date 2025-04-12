@@ -58,5 +58,5 @@ It is currently in progress and includes only the **frontend** components. Backe
 
 **P.H.Naveen Kumar**
 Contact [phnaveen2468@gmail.com]
-React.js, React Native and Frontend Enthusiast | Transitioning from SQL background  
+React.js, React Native and Frontend Developer
 [LinkedIn] | [GitHub]
