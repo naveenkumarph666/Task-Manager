@@ -1,9 +1,9 @@
 # 📱 Task - Manager
 
-This is a user-friendly mobile app built using **Expo with Firebase**.  
-This app allow users to **create, track, update and delete** their daily tasks.
-This reminds the users based on tasks scheduled by **push notifications**.
-This has **secure authentication, real-time data synchronization,login persistance and smooth UI** which provides good user experience.
+- This is a user-friendly mobile app built using **Expo with Firebase**.  
+- This app allow users to **create, track, update and delete** their daily tasks.
+- This reminds the users based on tasks scheduled by **push notifications**.
+- This has **secure authentication, real-time data synchronization,login persistance and smooth UI** which provides good user experience.
 
 
 ## 🚀 Features Implemented
